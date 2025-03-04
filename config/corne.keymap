@@ -24,7 +24,7 @@
                         compatible = "zmk,behavior-tap-dance";
                         #binding-cells = <0>;
                         tapping-term-ms = <200>;
-                        bindings = <&kp C_MUTE>, <&kp PSCRN>, <&kp C_CALC>;
+                        bindings = <&kp C_MUTE>, <&kp PSCRN>, <&kp C_AL_CALC>;
                 };
                 td1: tap_dance_1 {
                         compatible = "zmk,behavior-tap-dance";
